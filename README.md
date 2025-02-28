@@ -12,4 +12,15 @@ Com um sistema de atendimento moderno e eficiente, nossa sorveteria não apenas 
 # Documento de Visão
 [DOC](https://docs.google.com/document/d/1Hswv_fjDJP9xEgEx7-rkMLDQD4wPTt2H/edit?usp=sharing&ouid=110137495922372744074&rtpof=true&sd=true)
 
+# Recursos Técnicos
+- Bizagi
+- Trello
+- LucidChart
+- GitLab
+- React
+- Next.js
+- tailwind
+
+
+
 
